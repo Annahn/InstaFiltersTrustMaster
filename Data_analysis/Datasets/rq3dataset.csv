@@ -1,0 +1,817 @@
+Topic,Trust
+Climate change,2.0
+Abortion,3.0
+Gun control,1.0
+Entertainment,4.0
+Climate change,3.5
+Abortion,3.0
+Gun control,2.0
+Entertainment,3.5
+Climate change,2.5
+Abortion,2.5
+Gun control,3.5
+Entertainment,4.0
+Climate change,4.0
+Abortion,3.0
+Gun control,1.5
+Entertainment,3.5
+Climate change,4.0
+Abortion,4.0
+Gun control,4.0
+Entertainment,4.0
+Climate change,3.0
+Abortion,3.0
+Gun control,2.0
+Entertainment,3.0
+Climate change,3.5
+Abortion,2.5
+Gun control,3.0
+Entertainment,3.0
+Climate change,3.5
+Abortion,4.0
+Gun control,1.5
+Entertainment,3.5
+Climate change,3.0
+Abortion,2.5
+Gun control,2.0
+Entertainment,3.0
+Climate change,3.0
+Abortion,3.0
+Gun control,2.0
+Entertainment,3.0
+Climate change,4.0
+Abortion,2.5
+Gun control,3.5
+Entertainment,4.0
+Climate change,2.0
+Abortion,2.0
+Gun control,2.0
+Entertainment,3.0
+Climate change,3.0
+Abortion,3.0
+Gun control,3.0
+Entertainment,3.0
+Climate change,4.5
+Abortion,2.5
+Gun control,2.5
+Entertainment,4.0
+Climate change,4.0
+Abortion,2.5
+Gun control,5.0
+Entertainment,4.5
+Climate change,1.0
+Abortion,2.0
+Gun control,3.0
+Entertainment,3.0
+Climate change,4.0
+Abortion,4.0
+Gun control,3.5
+Entertainment,2.0
+Climate change,3.0
+Abortion,4.0
+Gun control,3.0
+Entertainment,4.5
+Climate change,4.0
+Abortion,3.0
+Gun control,3.0
+Entertainment,4.0
+Climate change,4.0
+Abortion,3.0
+Gun control,3.5
+Entertainment,4.0
+Climate change,1.0
+Abortion,3.0
+Gun control,3.5
+Entertainment,4.0
+Climate change,3.0
+Abortion,2.5
+Gun control,2.0
+Entertainment,3.0
+Climate change,3.5
+Abortion,3.0
+Gun control,1.5
+Entertainment,3.5
+Climate change,4.0
+Abortion,4.0
+Gun control,2.0
+Entertainment,3.5
+Climate change,4.0
+Abortion,3.5
+Gun control,4.0
+Entertainment,4.0
+Climate change,3.5
+Abortion,2.5
+Gun control,2.5
+Entertainment,4.0
+Climate change,2.0
+Abortion,2.5
+Gun control,1.0
+Entertainment,3.5
+Climate change,4.0
+Abortion,2.0
+Gun control,1.5
+Entertainment,4.0
+Climate change,3.5
+Abortion,2.0
+Gun control,2.5
+Entertainment,3.5
+Climate change,3.5
+Abortion,2.0
+Gun control,1.0
+Entertainment,4.0
+Climate change,3.5
+Abortion,3.0
+Gun control,2.0
+Entertainment,3.5
+Climate change,2.0
+Abortion,2.0
+Gun control,3.5
+Entertainment,4.0
+Climate change,3.5
+Abortion,2.5
+Gun control,2.5
+Entertainment,3.5
+Climate change,3.5
+Abortion,2.5
+Gun control,1.5
+Entertainment,4.0
+Climate change,2.5
+Abortion,3.5
+Gun control,2.0
+Entertainment,3.0
+Climate change,4.0
+Abortion,2.5
+Gun control,1.0
+Entertainment,3.5
+Climate change,3.5
+Abortion,2.5
+Gun control,2.0
+Entertainment,3.0
+Climate change,1.0
+Abortion,3.0
+Gun control,1.0
+Entertainment,1.0
+Climate change,1.5
+Abortion,3.0
+Gun control,3.5
+Entertainment,3.0
+Climate change,2.5
+Abortion,2.5
+Gun control,1.0
+Entertainment,4.0
+Climate change,3.5
+Abortion,2.5
+Gun control,1.5
+Entertainment,3.0
+Climate change,2.0
+Abortion,2.5
+Gun control,1.5
+Entertainment,3.0
+Climate change,3.5
+Abortion,3.0
+Gun control,2.5
+Entertainment,3.5
+Climate change,3.5
+Abortion,2.5
+Gun control,1.0
+Entertainment,3.0
+Climate change,3.5
+Abortion,3.0
+Gun control,1.5
+Entertainment,3.0
+Climate change,4.0
+Abortion,2.5
+Gun control,1.5
+Entertainment,4.0
+Climate change,4.0
+Abortion,2.5
+Gun control,2.5
+Entertainment,3.5
+Climate change,1.5
+Abortion,3.0
+Gun control,1.5
+Entertainment,3.5
+Climate change,5.0
+Abortion,4.0
+Gun control,3.0
+Entertainment,4.0
+Climate change,3.5
+Abortion,2.5
+Gun control,2.0
+Entertainment,2.5
+Climate change,1.5
+Abortion,2.5
+Gun control,2.0
+Entertainment,3.0
+Climate change,3.5
+Abortion,2.5
+Gun control,1.5
+Entertainment,4.0
+Climate change,2.5
+Abortion,2.0
+Gun control,1.0
+Entertainment,3.0
+Climate change,1.5
+Abortion,1.5
+Gun control,3.5
+Entertainment,3.0
+Climate change,3.5
+Abortion,2.0
+Gun control,3.0
+Entertainment,4.0
+Climate change,2.0
+Abortion,4.0
+Gun control,1.5
+Entertainment,4.0
+Climate change,2.5
+Abortion,2.0
+Gun control,2.0
+Entertainment,2.0
+Climate change,2.5
+Abortion,3.0
+Gun control,2.0
+Entertainment,3.0
+Climate change,4.0
+Abortion,2.5
+Gun control,2.5
+Entertainment,3.5
+Climate change,2.0
+Abortion,2.0
+Gun control,3.0
+Entertainment,2.0
+Climate change,1.5
+Abortion,2.5
+Gun control,2.5
+Entertainment,3.0
+Climate change,1.0
+Abortion,3.5
+Gun control,4.0
+Entertainment,3.5
+Climate change,3.5
+Abortion,2.5
+Gun control,2.0
+Entertainment,4.0
+Climate change,3.5
+Abortion,2.5
+Gun control,1.5
+Entertainment,4.0
+Climate change,5.0
+Abortion,3.0
+Gun control,3.0
+Entertainment,5.0
+Climate change,4.0
+Abortion,2.0
+Gun control,2.5
+Entertainment,3.5
+Climate change,4.0
+Abortion,3.0
+Gun control,1.5
+Entertainment,3.5
+Climate change,2.5
+Abortion,1.5
+Gun control,1.5
+Entertainment,2.5
+Climate change,2.5
+Abortion,2.5
+Gun control,2.0
+Entertainment,3.5
+Climate change,1.0
+Abortion,3.5
+Gun control,5.0
+Entertainment,1.5
+Climate change,3.0
+Abortion,2.5
+Gun control,2.0
+Entertainment,3.5
+Climate change,1.0
+Abortion,1.0
+Gun control,1.0
+Entertainment,1.0
+Climate change,4.0
+Abortion,3.0
+Gun control,2.5
+Entertainment,4.5
+Climate change,5.0
+Abortion,1.5
+Gun control,1.0
+Entertainment,4.0
+Climate change,1.0
+Abortion,4.0
+Gun control,4.0
+Entertainment,3.5
+Climate change,3.0
+Abortion,2.5
+Gun control,1.5
+Entertainment,4.0
+Climate change,5.0
+Abortion,3.5
+Gun control,1.0
+Entertainment,5.0
+Climate change,4.0
+Abortion,3.5
+Gun control,2.0
+Entertainment,4.0
+Climate change,2.0
+Abortion,3.5
+Gun control,4.0
+Entertainment,3.0
+Climate change,1.0
+Abortion,1.0
+Gun control,1.0
+Entertainment,1.0
+Climate change,3.5
+Abortion,2.5
+Gun control,1.0
+Entertainment,3.5
+Climate change,3.5
+Abortion,3.5
+Gun control,3.0
+Entertainment,3.5
+Climate change,4.0
+Abortion,3.5
+Gun control,2.0
+Entertainment,4.5
+Climate change,3.5
+Abortion,2.5
+Gun control,2.5
+Entertainment,4.0
+Climate change,5.0
+Abortion,3.0
+Gun control,3.0
+Entertainment,5.0
+Climate change,3.5
+Abortion,3.0
+Gun control,3.0
+Entertainment,3.0
+Climate change,2.0
+Abortion,1.0
+Gun control,1.0
+Entertainment,4.0
+Climate change,5.0
+Abortion,3.0
+Gun control,2.0
+Entertainment,2.0
+Climate change,5.0
+Abortion,4.0
+Gun control,1.5
+Entertainment,4.0
+Climate change,3.5
+Abortion,2.5
+Gun control,2.0
+Entertainment,4.0
+Climate change,3.0
+Abortion,2.5
+Gun control,1.5
+Entertainment,3.0
+Climate change,1.0
+Abortion,1.0
+Gun control,1.0
+Entertainment,1.0
+Climate change,2.5
+Abortion,3.0
+Gun control,4.0
+Entertainment,2.0
+Climate change,2.0
+Abortion,1.0
+Gun control,2.0
+Entertainment,2.0
+Climate change,1.0
+Abortion,3.0
+Gun control,3.0
+Entertainment,4.0
+Climate change,2.5
+Abortion,2.0
+Gun control,1.5
+Entertainment,2.0
+Climate change,2.5
+Abortion,3.5
+Gun control,4.0
+Entertainment,3.5
+Climate change,3.5
+Abortion,3.0
+Gun control,1.0
+Entertainment,3.0
+Climate change,2.0
+Abortion,3.5
+Gun control,4.0
+Entertainment,3.5
+Climate change,4.5
+Abortion,3.5
+Gun control,2.5
+Entertainment,4.0
+Climate change,2.0
+Abortion,3.5
+Gun control,3.0
+Entertainment,3.0
+Climate change,3.0
+Abortion,3.0
+Gun control,3.0
+Entertainment,3.0
+Climate change,3.5
+Abortion,3.0
+Gun control,3.0
+Entertainment,3.5
+Climate change,4.0
+Abortion,3.0
+Gun control,1.5
+Entertainment,2.0
+Climate change,3.0
+Abortion,2.0
+Gun control,3.0
+Entertainment,2.5
+Climate change,4.0
+Abortion,1.5
+Gun control,4.0
+Entertainment,2.5
+Climate change,2.5
+Abortion,1.5
+Gun control,2.5
+Entertainment,3.5
+Climate change,2.0
+Abortion,2.0
+Gun control,2.0
+Entertainment,2.0
+Climate change,4.0
+Abortion,3.0
+Gun control,4.0
+Entertainment,4.0
+Climate change,2.5
+Abortion,2.5
+Gun control,2.5
+Entertainment,3.0
+Climate change,3.5
+Abortion,3.0
+Gun control,3.5
+Entertainment,3.0
+Climate change,3.0
+Abortion,2.5
+Gun control,3.0
+Entertainment,2.0
+Climate change,3.0
+Abortion,2.5
+Gun control,3.0
+Entertainment,3.5
+Climate change,3.5
+Abortion,3.5
+Gun control,3.5
+Entertainment,4.0
+Climate change,4.0
+Abortion,4.0
+Gun control,4.0
+Entertainment,4.0
+Climate change,3.5
+Abortion,2.5
+Gun control,3.5
+Entertainment,3.0
+Climate change,3.5
+Abortion,3.0
+Gun control,3.5
+Entertainment,5.0
+Climate change,3.0
+Abortion,2.5
+Gun control,3.0
+Entertainment,3.5
+Climate change,4.0
+Abortion,3.0
+Gun control,4.0
+Entertainment,4.0
+Climate change,3.0
+Abortion,3.0
+Gun control,3.0
+Entertainment,3.5
+Climate change,2.0
+Abortion,3.0
+Gun control,2.0
+Entertainment,4.0
+Climate change,3.5
+Abortion,2.5
+Gun control,3.5
+Entertainment,4.0
+Climate change,4.0
+Abortion,2.0
+Gun control,4.0
+Entertainment,3.0
+Climate change,2.0
+Abortion,2.5
+Gun control,2.0
+Entertainment,2.0
+Climate change,2.0
+Abortion,2.0
+Gun control,2.0
+Entertainment,2.0
+Climate change,2.5
+Abortion,2.5
+Gun control,2.5
+Entertainment,3.5
+Climate change,3.5
+Abortion,3.0
+Gun control,3.5
+Entertainment,3.0
+Climate change,1.5
+Abortion,1.5
+Gun control,1.5
+Entertainment,2.5
+Climate change,3.5
+Abortion,2.5
+Gun control,3.5
+Entertainment,4.0
+Climate change,2.0
+Abortion,3.0
+Gun control,2.0
+Entertainment,3.0
+Climate change,3.0
+Abortion,3.0
+Gun control,3.0
+Entertainment,3.0
+Climate change,4.0
+Abortion,3.0
+Gun control,4.0
+Entertainment,3.5
+Climate change,3.5
+Abortion,1.5
+Gun control,3.5
+Entertainment,4.0
+Climate change,4.5
+Abortion,3.5
+Gun control,4.5
+Entertainment,2.5
+Climate change,3.0
+Abortion,2.0
+Gun control,3.0
+Entertainment,3.0
+Climate change,1.5
+Abortion,1.5
+Gun control,1.5
+Entertainment,2.5
+Climate change,2.5
+Abortion,2.5
+Gun control,2.5
+Entertainment,3.0
+Climate change,4.5
+Abortion,3.0
+Gun control,4.5
+Entertainment,4.0
+Climate change,1.5
+Abortion,5.0
+Gun control,1.5
+Entertainment,2.0
+Climate change,3.0
+Abortion,3.0
+Gun control,3.0
+Entertainment,3.0
+Climate change,3.5
+Abortion,3.0
+Gun control,3.5
+Entertainment,3.5
+Climate change,2.0
+Abortion,1.0
+Gun control,2.0
+Entertainment,4.0
+Climate change,3.0
+Abortion,1.5
+Gun control,3.0
+Entertainment,3.5
+Climate change,3.0
+Abortion,3.0
+Gun control,3.0
+Entertainment,3.5
+Climate change,5.0
+Abortion,3.5
+Gun control,5.0
+Entertainment,3.0
+Climate change,4.5
+Abortion,4.0
+Gun control,4.5
+Entertainment,4.0
+Climate change,5.0
+Abortion,3.0
+Gun control,5.0
+Entertainment,4.5
+Climate change,2.0
+Abortion,3.0
+Gun control,2.0
+Entertainment,3.0
+Climate change,3.0
+Abortion,3.0
+Gun control,3.0
+Entertainment,3.5
+Climate change,3.0
+Abortion,2.5
+Gun control,3.0
+Entertainment,3.5
+Climate change,3.5
+Abortion,4.5
+Gun control,3.5
+Entertainment,5.0
+Climate change,3.0
+Abortion,2.0
+Gun control,3.0
+Entertainment,2.5
+Climate change,2.0
+Abortion,1.0
+Gun control,2.0
+Entertainment,2.5
+Climate change,4.0
+Abortion,2.5
+Gun control,2.5
+Entertainment,4.5
+Climate change,3.5
+Abortion,2.5
+Gun control,3.0
+Entertainment,3.5
+Climate change,3.5
+Abortion,3.0
+Gun control,2.0
+Entertainment,3.5
+Climate change,3.5
+Abortion,1.5
+Gun control,1.5
+Entertainment,4.5
+Climate change,3.0
+Abortion,3.0
+Gun control,3.0
+Entertainment,3.0
+Climate change,3.0
+Abortion,2.5
+Gun control,1.5
+Entertainment,3.5
+Climate change,4.0
+Abortion,3.5
+Gun control,3.0
+Entertainment,4.0
+Climate change,4.0
+Abortion,4.0
+Gun control,3.0
+Entertainment,4.0
+Climate change,2.5
+Abortion,3.0
+Gun control,3.0
+Entertainment,2.5
+Climate change,2.0
+Abortion,2.0
+Gun control,4.0
+Entertainment,4.0
+Climate change,3.5
+Abortion,2.0
+Gun control,1.5
+Entertainment,3.0
+Climate change,2.0
+Abortion,1.0
+Gun control,4.0
+Entertainment,4.0
+Climate change,3.5
+Abortion,2.0
+Gun control,1.5
+Entertainment,3.0
+Climate change,3.0
+Abortion,3.0
+Gun control,2.0
+Entertainment,3.5
+Climate change,2.5
+Abortion,3.5
+Gun control,3.0
+Entertainment,2.5
+Climate change,1.0
+Abortion,3.0
+Gun control,3.5
+Entertainment,2.5
+Climate change,3.0
+Abortion,3.0
+Gun control,3.0
+Entertainment,3.0
+Climate change,3.0
+Abortion,3.0
+Gun control,1.5
+Entertainment,3.0
+Climate change,2.0
+Abortion,1.5
+Gun control,1.0
+Entertainment,3.0
+Climate change,3.5
+Abortion,2.0
+Gun control,2.0
+Entertainment,4.0
+Climate change,3.0
+Abortion,2.5
+Gun control,4.0
+Entertainment,3.0
+Climate change,4.0
+Abortion,2.0
+Gun control,3.0
+Entertainment,2.0
+Climate change,5.0
+Abortion,3.0
+Gun control,1.0
+Entertainment,3.0
+Climate change,3.5
+Abortion,3.0
+Gun control,3.5
+Entertainment,4.0
+Climate change,1.5
+Abortion,3.5
+Gun control,3.0
+Entertainment,1.0
+Climate change,2.0
+Abortion,2.5
+Gun control,3.5
+Entertainment,2.0
+Climate change,3.0
+Abortion,3.0
+Gun control,1.5
+Entertainment,2.5
+Climate change,1.0
+Abortion,2.0
+Gun control,1.5
+Entertainment,2.0
+Climate change,5.0
+Abortion,2.0
+Gun control,2.5
+Entertainment,5.0
+Climate change,2.0
+Abortion,2.5
+Gun control,2.5
+Entertainment,3.5
+Climate change,3.5
+Abortion,3.0
+Gun control,3.5
+Entertainment,4.0
+Climate change,5.0
+Abortion,2.0
+Gun control,1.0
+Entertainment,5.0
+Climate change,3.0
+Abortion,3.0
+Gun control,2.0
+Entertainment,4.0
+Climate change,1.5
+Abortion,3.5
+Gun control,3.0
+Entertainment,2.5
+Climate change,2.0
+Abortion,2.0
+Gun control,2.5
+Entertainment,3.0
+Climate change,3.5
+Abortion,3.0
+Gun control,2.5
+Entertainment,4.0
+Climate change,3.5
+Abortion,3.5
+Gun control,3.5
+Entertainment,3.5
+Climate change,3.5
+Abortion,1.5
+Gun control,1.5
+Entertainment,4.0
+Climate change,4.0
+Abortion,2.5
+Gun control,2.5
+Entertainment,3.0
+Climate change,4.5
+Abortion,4.0
+Gun control,2.0
+Entertainment,3.0
+Climate change,1.5
+Abortion,4.0
+Gun control,3.5
+Entertainment,3.0
+Climate change,3.0
+Abortion,3.0
+Gun control,2.5
+Entertainment,3.0
+Climate change,3.0
+Abortion,2.0
+Gun control,2.0
+Entertainment,3.0
+Climate change,1.0
+Abortion,4.0
+Gun control,3.5
+Entertainment,4.5
+Climate change,3.5
+Abortion,3.0
+Gun control,2.5
+Entertainment,3.5
+Climate change,3.0
+Abortion,2.0
+Gun control,1.0
+Entertainment,3.0
+Climate change,3.0
+Abortion,3.0
+Gun control,2.0
+Entertainment,3.0
+Climate change,3.0
+Abortion,1.5
+Gun control,1.5
+Entertainment,4.5
+Climate change,3.5
+Abortion,2.0
+Gun control,1.5
+Entertainment,5.0
+Climate change,2.0
+Abortion,2.0
+Gun control,2.0
+Entertainment,2.0
+Climate change,2.5
+Abortion,3.0
+Gun control,1.5
+Entertainment,4.5

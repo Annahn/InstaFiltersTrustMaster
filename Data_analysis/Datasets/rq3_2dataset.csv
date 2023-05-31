@@ -1,0 +1,817 @@
+Filter,Topic,Avg
+0,Climate change,2.0
+1,Abortion,3.0
+2,Gun control,1.0
+3,Entertainment,4.0
+0,Climate change,3.5
+1,Abortion,3.0
+2,Gun control,2.0
+3,Entertainment,3.5
+0,Climate change,2.5
+1,Abortion,2.5
+2,Gun control,3.5
+3,Entertainment,4.0
+0,Climate change,4.0
+1,Abortion,3.0
+2,Gun control,1.5
+3,Entertainment,3.5
+0,Climate change,4.0
+1,Abortion,4.0
+2,Gun control,4.0
+3,Entertainment,4.0
+0,Climate change,3.0
+1,Abortion,3.0
+2,Gun control,2.0
+3,Entertainment,3.0
+0,Climate change,3.5
+1,Abortion,2.5
+2,Gun control,3.0
+3,Entertainment,3.0
+0,Climate change,3.5
+1,Abortion,4.0
+2,Gun control,1.5
+3,Entertainment,3.5
+0,Climate change,3.0
+1,Abortion,2.5
+2,Gun control,2.0
+3,Entertainment,3.0
+0,Climate change,3.0
+1,Abortion,3.0
+2,Gun control,2.0
+3,Entertainment,3.0
+0,Climate change,4.0
+1,Abortion,2.5
+2,Gun control,3.5
+3,Entertainment,4.0
+0,Climate change,2.0
+1,Abortion,2.0
+2,Gun control,2.0
+3,Entertainment,3.0
+0,Climate change,3.0
+1,Abortion,3.0
+2,Gun control,3.0
+3,Entertainment,3.0
+0,Climate change,4.5
+1,Abortion,2.5
+2,Gun control,2.5
+3,Entertainment,4.0
+0,Climate change,4.0
+1,Abortion,2.5
+2,Gun control,5.0
+3,Entertainment,4.5
+0,Climate change,1.0
+1,Abortion,2.0
+2,Gun control,3.0
+3,Entertainment,3.0
+0,Climate change,4.0
+1,Abortion,4.0
+2,Gun control,3.5
+3,Entertainment,2.0
+0,Climate change,3.0
+1,Abortion,4.0
+2,Gun control,3.0
+3,Entertainment,4.5
+0,Climate change,4.0
+1,Abortion,3.0
+2,Gun control,3.0
+3,Entertainment,4.0
+0,Climate change,4.0
+1,Abortion,3.0
+2,Gun control,3.5
+3,Entertainment,4.0
+0,Climate change,1.0
+1,Abortion,3.0
+2,Gun control,3.5
+3,Entertainment,4.0
+0,Climate change,3.0
+1,Abortion,2.5
+2,Gun control,2.0
+3,Entertainment,3.0
+0,Climate change,3.5
+1,Abortion,3.0
+2,Gun control,1.5
+3,Entertainment,3.5
+0,Climate change,4.0
+1,Abortion,4.0
+2,Gun control,2.0
+3,Entertainment,3.5
+0,Climate change,4.0
+1,Abortion,3.5
+2,Gun control,4.0
+3,Entertainment,4.0
+0,Climate change,3.5
+1,Abortion,2.5
+2,Gun control,2.5
+3,Entertainment,4.0
+0,Climate change,2.0
+1,Abortion,2.5
+2,Gun control,1.0
+3,Entertainment,3.5
+0,Climate change,4.0
+1,Abortion,2.0
+2,Gun control,1.5
+3,Entertainment,4.0
+0,Climate change,3.5
+1,Abortion,2.0
+2,Gun control,2.5
+3,Entertainment,3.5
+0,Climate change,3.5
+1,Abortion,2.0
+2,Gun control,1.0
+3,Entertainment,4.0
+0,Climate change,3.5
+1,Abortion,3.0
+2,Gun control,2.0
+3,Entertainment,3.5
+0,Climate change,2.0
+1,Abortion,2.0
+2,Gun control,3.5
+3,Entertainment,4.0
+0,Climate change,3.5
+1,Abortion,2.5
+2,Gun control,2.5
+3,Entertainment,3.5
+0,Climate change,3.5
+1,Abortion,2.5
+2,Gun control,1.5
+3,Entertainment,4.0
+0,Climate change,2.5
+1,Abortion,3.5
+2,Gun control,2.0
+3,Entertainment,3.0
+0,Climate change,4.0
+1,Abortion,2.5
+2,Gun control,1.0
+3,Entertainment,3.5
+0,Climate change,3.5
+1,Abortion,2.5
+2,Gun control,2.0
+3,Entertainment,3.0
+0,Climate change,1.0
+1,Abortion,3.0
+2,Gun control,1.0
+3,Entertainment,1.0
+0,Climate change,1.5
+1,Abortion,3.0
+2,Gun control,3.5
+3,Entertainment,3.0
+0,Climate change,2.5
+1,Abortion,2.5
+2,Gun control,1.0
+3,Entertainment,4.0
+0,Climate change,3.5
+1,Abortion,2.5
+2,Gun control,1.5
+3,Entertainment,3.0
+0,Climate change,2.0
+1,Abortion,2.5
+2,Gun control,1.5
+3,Entertainment,3.0
+0,Climate change,3.5
+1,Abortion,3.0
+2,Gun control,2.5
+3,Entertainment,3.5
+0,Climate change,3.5
+1,Abortion,2.5
+2,Gun control,1.0
+3,Entertainment,3.0
+0,Climate change,3.5
+1,Abortion,3.0
+2,Gun control,1.5
+3,Entertainment,3.0
+0,Climate change,4.0
+1,Abortion,2.5
+2,Gun control,1.5
+3,Entertainment,4.0
+0,Climate change,4.0
+1,Abortion,2.5
+2,Gun control,2.5
+3,Entertainment,3.5
+0,Climate change,1.5
+1,Abortion,3.0
+2,Gun control,1.5
+3,Entertainment,3.5
+0,Climate change,5.0
+1,Abortion,4.0
+2,Gun control,3.0
+3,Entertainment,4.0
+0,Climate change,3.5
+1,Abortion,2.5
+2,Gun control,2.0
+3,Entertainment,2.5
+0,Climate change,1.5
+1,Abortion,2.5
+2,Gun control,2.0
+3,Entertainment,3.0
+1,Climate change,3.5
+2,Abortion,2.5
+3,Gun control,1.5
+0,Entertainment,4.0
+1,Climate change,2.5
+2,Abortion,2.0
+3,Gun control,1.0
+0,Entertainment,3.0
+1,Climate change,1.5
+2,Abortion,1.5
+3,Gun control,3.5
+0,Entertainment,3.0
+1,Climate change,3.5
+2,Abortion,2.0
+3,Gun control,3.0
+0,Entertainment,4.0
+1,Climate change,2.0
+2,Abortion,4.0
+3,Gun control,1.5
+0,Entertainment,4.0
+1,Climate change,2.5
+2,Abortion,2.0
+3,Gun control,2.0
+0,Entertainment,2.0
+1,Climate change,2.5
+2,Abortion,3.0
+3,Gun control,2.0
+0,Entertainment,3.0
+1,Climate change,4.0
+2,Abortion,2.5
+3,Gun control,2.5
+0,Entertainment,3.5
+1,Climate change,2.0
+2,Abortion,2.0
+3,Gun control,3.0
+0,Entertainment,2.0
+1,Climate change,1.5
+2,Abortion,2.5
+3,Gun control,2.5
+0,Entertainment,3.0
+1,Climate change,1.0
+2,Abortion,3.5
+3,Gun control,4.0
+0,Entertainment,3.5
+1,Climate change,3.5
+2,Abortion,2.5
+3,Gun control,2.0
+0,Entertainment,4.0
+1,Climate change,3.5
+2,Abortion,2.5
+3,Gun control,1.5
+0,Entertainment,4.0
+1,Climate change,5.0
+2,Abortion,3.0
+3,Gun control,3.0
+0,Entertainment,5.0
+1,Climate change,4.0
+2,Abortion,2.0
+3,Gun control,2.5
+0,Entertainment,3.5
+1,Climate change,4.0
+2,Abortion,3.0
+3,Gun control,1.5
+0,Entertainment,3.5
+1,Climate change,2.5
+2,Abortion,1.5
+3,Gun control,1.5
+0,Entertainment,2.5
+1,Climate change,2.5
+2,Abortion,2.5
+3,Gun control,2.0
+0,Entertainment,3.5
+1,Climate change,1.0
+2,Abortion,3.5
+3,Gun control,5.0
+0,Entertainment,1.5
+1,Climate change,3.0
+2,Abortion,2.5
+3,Gun control,2.0
+0,Entertainment,3.5
+1,Climate change,1.0
+2,Abortion,1.0
+3,Gun control,1.0
+0,Entertainment,1.0
+1,Climate change,4.0
+2,Abortion,3.0
+3,Gun control,2.5
+0,Entertainment,4.5
+1,Climate change,5.0
+2,Abortion,1.5
+3,Gun control,1.0
+0,Entertainment,4.0
+1,Climate change,1.0
+2,Abortion,4.0
+3,Gun control,4.0
+0,Entertainment,3.5
+1,Climate change,3.0
+2,Abortion,2.5
+3,Gun control,1.5
+0,Entertainment,4.0
+1,Climate change,5.0
+2,Abortion,3.5
+3,Gun control,1.0
+0,Entertainment,5.0
+1,Climate change,4.0
+2,Abortion,3.5
+3,Gun control,2.0
+0,Entertainment,4.0
+1,Climate change,2.0
+2,Abortion,3.5
+3,Gun control,4.0
+0,Entertainment,3.0
+1,Climate change,1.0
+2,Abortion,1.0
+3,Gun control,1.0
+0,Entertainment,1.0
+1,Climate change,3.5
+2,Abortion,2.5
+3,Gun control,1.0
+0,Entertainment,3.5
+1,Climate change,3.5
+2,Abortion,3.5
+3,Gun control,3.0
+0,Entertainment,3.5
+1,Climate change,4.0
+2,Abortion,3.5
+3,Gun control,2.0
+0,Entertainment,4.5
+1,Climate change,3.5
+2,Abortion,2.5
+3,Gun control,2.5
+0,Entertainment,4.0
+1,Climate change,5.0
+2,Abortion,3.0
+3,Gun control,3.0
+0,Entertainment,5.0
+1,Climate change,3.5
+2,Abortion,3.0
+3,Gun control,3.0
+0,Entertainment,3.0
+1,Climate change,2.0
+2,Abortion,1.0
+3,Gun control,1.0
+0,Entertainment,4.0
+1,Climate change,5.0
+2,Abortion,3.0
+3,Gun control,2.0
+0,Entertainment,2.0
+1,Climate change,5.0
+2,Abortion,4.0
+3,Gun control,1.5
+0,Entertainment,4.0
+1,Climate change,3.5
+2,Abortion,2.5
+3,Gun control,2.0
+0,Entertainment,4.0
+1,Climate change,3.0
+2,Abortion,2.5
+3,Gun control,1.5
+0,Entertainment,3.0
+1,Climate change,1.0
+2,Abortion,1.0
+3,Gun control,1.0
+0,Entertainment,1.0
+1,Climate change,2.5
+2,Abortion,3.0
+3,Gun control,4.0
+0,Entertainment,2.0
+1,Climate change,2.0
+2,Abortion,1.0
+3,Gun control,2.0
+0,Entertainment,2.0
+1,Climate change,1.0
+2,Abortion,3.0
+3,Gun control,3.0
+0,Entertainment,4.0
+1,Climate change,2.5
+2,Abortion,2.0
+3,Gun control,1.5
+0,Entertainment,2.0
+1,Climate change,2.5
+2,Abortion,3.5
+3,Gun control,4.0
+0,Entertainment,3.5
+1,Climate change,3.5
+2,Abortion,3.0
+3,Gun control,1.0
+0,Entertainment,3.0
+1,Climate change,2.0
+2,Abortion,3.5
+3,Gun control,4.0
+0,Entertainment,3.5
+1,Climate change,4.5
+2,Abortion,3.5
+3,Gun control,2.5
+0,Entertainment,4.0
+1,Climate change,2.0
+2,Abortion,3.5
+3,Gun control,3.0
+0,Entertainment,3.0
+1,Climate change,3.0
+2,Abortion,3.0
+3,Gun control,3.0
+0,Entertainment,3.0
+1,Climate change,3.5
+2,Abortion,3.0
+3,Gun control,3.0
+0,Entertainment,3.5
+1,Climate change,4.0
+2,Abortion,3.0
+3,Gun control,1.5
+0,Entertainment,2.0
+2,Climate change,3.0
+3,Abortion,2.0
+0,Gun control,3.0
+1,Entertainment,2.5
+2,Climate change,4.0
+3,Abortion,1.5
+0,Gun control,4.0
+1,Entertainment,2.5
+2,Climate change,2.5
+3,Abortion,1.5
+0,Gun control,2.5
+1,Entertainment,3.5
+2,Climate change,2.0
+3,Abortion,2.0
+0,Gun control,2.0
+1,Entertainment,2.0
+2,Climate change,4.0
+3,Abortion,3.0
+0,Gun control,4.0
+1,Entertainment,4.0
+2,Climate change,2.5
+3,Abortion,2.5
+0,Gun control,2.5
+1,Entertainment,3.0
+2,Climate change,3.5
+3,Abortion,3.0
+0,Gun control,3.5
+1,Entertainment,3.0
+2,Climate change,3.0
+3,Abortion,2.5
+0,Gun control,3.0
+1,Entertainment,2.0
+2,Climate change,3.0
+3,Abortion,2.5
+0,Gun control,3.0
+1,Entertainment,3.5
+2,Climate change,3.5
+3,Abortion,3.5
+0,Gun control,3.5
+1,Entertainment,4.0
+2,Climate change,4.0
+3,Abortion,4.0
+0,Gun control,4.0
+1,Entertainment,4.0
+2,Climate change,3.5
+3,Abortion,2.5
+0,Gun control,3.5
+1,Entertainment,3.0
+2,Climate change,3.5
+3,Abortion,3.0
+0,Gun control,3.5
+1,Entertainment,5.0
+2,Climate change,3.0
+3,Abortion,2.5
+0,Gun control,3.0
+1,Entertainment,3.5
+2,Climate change,4.0
+3,Abortion,3.0
+0,Gun control,4.0
+1,Entertainment,4.0
+2,Climate change,3.0
+3,Abortion,3.0
+0,Gun control,3.0
+1,Entertainment,3.5
+2,Climate change,2.0
+3,Abortion,3.0
+0,Gun control,2.0
+1,Entertainment,4.0
+2,Climate change,3.5
+3,Abortion,2.5
+0,Gun control,3.5
+1,Entertainment,4.0
+2,Climate change,4.0
+3,Abortion,2.0
+0,Gun control,4.0
+1,Entertainment,3.0
+2,Climate change,2.0
+3,Abortion,2.5
+0,Gun control,2.0
+1,Entertainment,2.0
+2,Climate change,2.0
+3,Abortion,2.0
+0,Gun control,2.0
+1,Entertainment,2.0
+2,Climate change,2.5
+3,Abortion,2.5
+0,Gun control,2.5
+1,Entertainment,3.5
+2,Climate change,3.5
+3,Abortion,3.0
+0,Gun control,3.5
+1,Entertainment,3.0
+2,Climate change,1.5
+3,Abortion,1.5
+0,Gun control,1.5
+1,Entertainment,2.5
+2,Climate change,3.5
+3,Abortion,2.5
+0,Gun control,3.5
+1,Entertainment,4.0
+2,Climate change,2.0
+3,Abortion,3.0
+0,Gun control,2.0
+1,Entertainment,3.0
+2,Climate change,3.0
+3,Abortion,3.0
+0,Gun control,3.0
+1,Entertainment,3.0
+2,Climate change,4.0
+3,Abortion,3.0
+0,Gun control,4.0
+1,Entertainment,3.5
+2,Climate change,3.5
+3,Abortion,1.5
+0,Gun control,3.5
+1,Entertainment,4.0
+2,Climate change,4.5
+3,Abortion,3.5
+0,Gun control,4.5
+1,Entertainment,2.5
+2,Climate change,3.0
+3,Abortion,2.0
+0,Gun control,3.0
+1,Entertainment,3.0
+2,Climate change,1.5
+3,Abortion,1.5
+0,Gun control,1.5
+1,Entertainment,2.5
+2,Climate change,2.5
+3,Abortion,2.5
+0,Gun control,2.5
+1,Entertainment,3.0
+2,Climate change,4.5
+3,Abortion,3.0
+0,Gun control,4.5
+1,Entertainment,4.0
+2,Climate change,1.5
+3,Abortion,5.0
+0,Gun control,1.5
+1,Entertainment,2.0
+2,Climate change,3.0
+3,Abortion,3.0
+0,Gun control,3.0
+1,Entertainment,3.0
+2,Climate change,3.5
+3,Abortion,3.0
+0,Gun control,3.5
+1,Entertainment,3.5
+2,Climate change,2.0
+3,Abortion,1.0
+0,Gun control,2.0
+1,Entertainment,4.0
+2,Climate change,3.0
+3,Abortion,1.5
+0,Gun control,3.0
+1,Entertainment,3.5
+2,Climate change,3.0
+3,Abortion,3.0
+0,Gun control,3.0
+1,Entertainment,3.5
+2,Climate change,5.0
+3,Abortion,3.5
+0,Gun control,5.0
+1,Entertainment,3.0
+2,Climate change,4.5
+3,Abortion,4.0
+0,Gun control,4.5
+1,Entertainment,4.0
+2,Climate change,5.0
+3,Abortion,3.0
+0,Gun control,5.0
+1,Entertainment,4.5
+2,Climate change,2.0
+3,Abortion,3.0
+0,Gun control,2.0
+1,Entertainment,3.0
+2,Climate change,3.0
+3,Abortion,3.0
+0,Gun control,3.0
+1,Entertainment,3.5
+2,Climate change,3.0
+3,Abortion,2.5
+0,Gun control,3.0
+1,Entertainment,3.5
+2,Climate change,3.5
+3,Abortion,4.5
+0,Gun control,3.5
+1,Entertainment,5.0
+2,Climate change,3.0
+3,Abortion,2.0
+0,Gun control,3.0
+1,Entertainment,2.5
+2,Climate change,2.0
+3,Abortion,1.0
+0,Gun control,2.0
+1,Entertainment,2.5
+3,Climate change,4.0
+0,Abortion,2.5
+1,Gun control,2.5
+2,Entertainment,4.5
+3,Climate change,3.5
+0,Abortion,2.5
+1,Gun control,3.0
+2,Entertainment,3.5
+3,Climate change,3.5
+0,Abortion,3.0
+1,Gun control,2.0
+2,Entertainment,3.5
+3,Climate change,3.5
+0,Abortion,1.5
+1,Gun control,1.5
+2,Entertainment,4.5
+3,Climate change,3.0
+0,Abortion,3.0
+1,Gun control,3.0
+2,Entertainment,3.0
+3,Climate change,3.0
+0,Abortion,2.5
+1,Gun control,1.5
+2,Entertainment,3.5
+3,Climate change,4.0
+0,Abortion,3.5
+1,Gun control,3.0
+2,Entertainment,4.0
+3,Climate change,4.0
+0,Abortion,4.0
+1,Gun control,3.0
+2,Entertainment,4.0
+3,Climate change,2.5
+0,Abortion,3.0
+1,Gun control,3.0
+2,Entertainment,2.5
+3,Climate change,2.0
+0,Abortion,2.0
+1,Gun control,4.0
+2,Entertainment,4.0
+3,Climate change,3.5
+0,Abortion,2.0
+1,Gun control,1.5
+2,Entertainment,3.0
+3,Climate change,2.0
+0,Abortion,1.0
+1,Gun control,4.0
+2,Entertainment,4.0
+3,Climate change,3.5
+0,Abortion,2.0
+1,Gun control,1.5
+2,Entertainment,3.0
+3,Climate change,3.0
+0,Abortion,3.0
+1,Gun control,2.0
+2,Entertainment,3.5
+3,Climate change,2.5
+0,Abortion,3.5
+1,Gun control,3.0
+2,Entertainment,2.5
+3,Climate change,1.0
+0,Abortion,3.0
+1,Gun control,3.5
+2,Entertainment,2.5
+3,Climate change,3.0
+0,Abortion,3.0
+1,Gun control,3.0
+2,Entertainment,3.0
+3,Climate change,3.0
+0,Abortion,3.0
+1,Gun control,1.5
+2,Entertainment,3.0
+3,Climate change,2.0
+0,Abortion,1.5
+1,Gun control,1.0
+2,Entertainment,3.0
+3,Climate change,3.5
+0,Abortion,2.0
+1,Gun control,2.0
+2,Entertainment,4.0
+3,Climate change,3.0
+0,Abortion,2.5
+1,Gun control,4.0
+2,Entertainment,3.0
+3,Climate change,4.0
+0,Abortion,2.0
+1,Gun control,3.0
+2,Entertainment,2.0
+3,Climate change,5.0
+0,Abortion,3.0
+1,Gun control,1.0
+2,Entertainment,3.0
+3,Climate change,3.5
+0,Abortion,3.0
+1,Gun control,3.5
+2,Entertainment,4.0
+3,Climate change,1.5
+0,Abortion,3.5
+1,Gun control,3.0
+2,Entertainment,1.0
+3,Climate change,2.0
+0,Abortion,2.5
+1,Gun control,3.5
+2,Entertainment,2.0
+3,Climate change,3.0
+0,Abortion,3.0
+1,Gun control,1.5
+2,Entertainment,2.5
+3,Climate change,1.0
+0,Abortion,2.0
+1,Gun control,1.5
+2,Entertainment,2.0
+3,Climate change,5.0
+0,Abortion,2.0
+1,Gun control,2.5
+2,Entertainment,5.0
+3,Climate change,2.0
+0,Abortion,2.5
+1,Gun control,2.5
+2,Entertainment,3.5
+3,Climate change,3.5
+0,Abortion,3.0
+1,Gun control,3.5
+2,Entertainment,4.0
+3,Climate change,5.0
+0,Abortion,2.0
+1,Gun control,1.0
+2,Entertainment,5.0
+3,Climate change,3.0
+0,Abortion,3.0
+1,Gun control,2.0
+2,Entertainment,4.0
+3,Climate change,1.5
+0,Abortion,3.5
+1,Gun control,3.0
+2,Entertainment,2.5
+3,Climate change,2.0
+0,Abortion,2.0
+1,Gun control,2.5
+2,Entertainment,3.0
+3,Climate change,3.5
+0,Abortion,3.0
+1,Gun control,2.5
+2,Entertainment,4.0
+3,Climate change,3.5
+0,Abortion,3.5
+1,Gun control,3.5
+2,Entertainment,3.5
+3,Climate change,3.5
+0,Abortion,1.5
+1,Gun control,1.5
+2,Entertainment,4.0
+3,Climate change,4.0
+0,Abortion,2.5
+1,Gun control,2.5
+2,Entertainment,3.0
+3,Climate change,4.5
+0,Abortion,4.0
+1,Gun control,2.0
+2,Entertainment,3.0
+3,Climate change,1.5
+0,Abortion,4.0
+1,Gun control,3.5
+2,Entertainment,3.0
+3,Climate change,3.0
+0,Abortion,3.0
+1,Gun control,2.5
+2,Entertainment,3.0
+3,Climate change,3.0
+0,Abortion,2.0
+1,Gun control,2.0
+2,Entertainment,3.0
+3,Climate change,1.0
+0,Abortion,4.0
+1,Gun control,3.5
+2,Entertainment,4.5
+3,Climate change,3.5
+0,Abortion,3.0
+1,Gun control,2.5
+2,Entertainment,3.5
+3,Climate change,3.0
+0,Abortion,2.0
+1,Gun control,1.0
+2,Entertainment,3.0
+3,Climate change,3.0
+0,Abortion,3.0
+1,Gun control,2.0
+2,Entertainment,3.0
+3,Climate change,3.0
+0,Abortion,1.5
+1,Gun control,1.5
+2,Entertainment,4.5
+3,Climate change,3.5
+0,Abortion,2.0
+1,Gun control,1.5
+2,Entertainment,5.0
+3,Climate change,2.0
+0,Abortion,2.0
+1,Gun control,2.0
+2,Entertainment,2.0
+3,Climate change,2.5
+0,Abortion,3.0
+1,Gun control,1.5
+2,Entertainment,4.5

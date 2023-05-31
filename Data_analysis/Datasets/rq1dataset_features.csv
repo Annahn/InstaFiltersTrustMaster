@@ -1,0 +1,817 @@
+Perceived_trust,Filter,Topic,Brightness,Sharpness,Colorfulness,Contrast,Entropy
+2.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+2.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+3.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+4.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+4.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+4.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+4.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+3.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+4.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+4.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+3.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+2.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+3.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+4.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+4.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+5.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+1.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+3.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+4.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+4.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+3.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+2.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+4.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+3.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+4.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+3.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+4.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+3.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+1.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+3.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+4.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+4.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+4.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+4.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+2.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+4.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+2.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+3.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+2.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+4.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+1.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+1.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+1.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+3.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+2.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+2.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+4.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+4.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+1.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+3.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+1.5,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+5.0,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+4.0,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+3.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+4.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+2.5,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+1.5,Original,Climate change,0.41,0.07,0.27,0.15,7.46
+2.5,Nashville,Abortion,0.55,0.06,0.35,0.27,6.91
+2.0,Willow,Gun control,0.39,0.07,0.02,0.16,7.35
+3.0,LOFI,Entertainment,0.29,0.15,0.22,0.25,7.3
+3.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+2.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+1.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+1.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+3.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+3.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+3.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+2.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+4.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+2.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+2.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+2.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+4.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+2.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+3.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+2.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+1.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+1.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+4.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+3.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+3.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+5.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+3.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+5.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+4.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+4.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+2.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+1.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+2.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+2.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+1.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+5.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+1.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+3.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+1.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+1.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+1.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+4.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+5.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+1.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+1.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+4.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+4.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+3.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+5.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+5.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+4.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+2.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+4.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+1.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+1.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+1.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+3.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+3.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+3.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+4.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+3.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+5.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+3.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+5.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+3.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+3.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+2.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+1.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+5.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+2.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+5.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+4.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+3.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+3.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+1.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+1.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+1.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+2.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+4.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+2.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+2.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+1.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+2.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+1.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+3.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+2.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+2.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+2.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+2.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+4.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+3.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+2.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+4.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+4.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+2.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+4.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+2.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.5,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+3.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+3.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+3.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+3.5,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+3.0,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+3.5,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+4.0,Nashville,Climate change,0.46,0.07,0.31,0.16,7.55
+3.0,Willow,Abortion,0.55,0.04,0.03,0.21,7.12
+1.5,LOFI,Gun control,0.29,0.23,0.23,0.28,7.4
+2.0,Original,Entertainment,0.32,0.17,0.15,0.12,7.04
+3.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+2.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+4.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+1.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+4.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+2.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+2.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+1.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+2.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+2.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+2.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+2.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+4.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+4.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+4.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+2.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+2.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+2.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+4.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+4.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+4.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+4.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+4.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+5.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+4.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+4.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+4.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+2.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+2.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+4.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+4.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+4.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+4.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+2.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+2.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+2.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+2.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+2.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+2.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+2.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+2.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+1.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+1.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+1.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+2.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+4.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+2.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+2.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+4.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+4.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+1.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+4.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+4.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+4.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+2.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+1.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+1.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+1.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+2.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+2.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+2.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+4.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+4.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+4.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+1.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+5.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+1.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+2.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+2.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+1.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+2.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+4.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+1.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+5.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+5.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+4.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+4.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+4.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+4.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+5.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+5.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+4.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+2.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+2.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+3.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+3.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.5,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+4.5,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.5,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+5.0,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+3.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+2.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+3.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+2.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+2.0,Willow,Climate change,0.47,0.05,0.02,0.11,7.39
+1.0,LOFI,Abortion,0.52,0.1,0.38,0.42,7.3
+2.0,Original,Gun control,0.34,0.13,0.17,0.19,7.63
+2.5,Nashville,Entertainment,0.39,0.11,0.28,0.17,7.26
+4.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+4.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+1.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+1.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+4.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+1.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+4.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+4.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+4.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+4.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+4.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+2.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+2.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+2.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+4.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+4.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+1.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+2.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+1.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+4.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+4.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+1.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+2.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+2.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+1.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+2.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+1.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+2.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+1.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+1.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+4.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+4.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+4.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+2.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+5.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+1.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+4.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+1.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+1.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+2.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+2.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+1.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+2.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+1.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+1.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+2.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+5.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+5.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+2.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+4.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+5.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+1.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+5.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+4.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+1.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+2.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+2.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+4.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+1.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+1.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+4.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+4.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+4.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+4.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+1.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+4.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+1.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+4.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+3.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+4.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+1.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+3.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+1.5,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+1.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+4.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+3.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+1.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+5.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+2.0,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+2.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+2.0,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+2.0,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23
+2.5,LOFI,Climate change,0.37,0.11,0.39,0.24,7.65
+3.0,Original,Abortion,0.51,0.05,0.29,0.28,7.43
+1.5,Nashville,Gun control,0.38,0.12,0.28,0.21,7.52
+4.5,Willow,Entertainment,0.41,0.06,0.02,0.15,7.23

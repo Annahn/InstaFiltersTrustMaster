@@ -4,6 +4,10 @@
 
 ### Contents
 
+Supervisors: Assoc. Prof. Dr. Alain Starke
+
+Co-supervisor: Prof. Dr. Christoph Trattner
+
 - Image feature extraction
   - Images
   - The CSV file with all features created from the imagefeatureextraction code

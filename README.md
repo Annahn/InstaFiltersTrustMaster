@@ -4,7 +4,12 @@
 
 ### Contents
 
-- The manually scraped dataset
-- Image feature extraction code (Java)
-- Various statistical analysis (Python)
+- Image feature extraction
+  - Images
+  - The CSV file with all features created from the imagefeatureextraction code
+  - ImageFeatureExtraction code (Java)
+- Data analysis
+  - Datasets
+  - Jupyter notebook files with statistical anlysis for each research question
+
 

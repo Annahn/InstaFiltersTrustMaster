@@ -45,26 +45,6 @@ public class ImageFeatureCalculator {
                 continue;
             }
 
-            //Naturalness naturalnesser = new Naturalness();
-            //naturalnesser.analyseImage(image);
-            //double naturalness = naturalnesser.getNaturalness();
-
-            //Saturation sat = new Saturation();
-            //sat.analyseImage(image);
-            //double saturation = sat.getSaturation();
-
-            //SaturationVariation satVariationer = new SaturationVariation();
-            //satVariationer.analyseImage(image);
-            //double saturationVariation = satVariationer.getSaturationVariation();
-
-            //SharpnessVariation sharpVariationer = new SharpnessVariation();
-            //sharpVariationer.analyseImage(fImage);
-            //double sharpnessVartiation = sharpVariationer.getSharpnessVariation();
-
-            //RMSContrast rmsContraster = new RMSContrast();
-            //rmsContraster.analyseImage(fImage);
-            //double contrast = rmsContraster.getContrast();
-
             //avg brightness
             AvgBrightness brightnesser = new AvgBrightness();
             brightnesser.analyseImage(image);
@@ -91,12 +71,9 @@ public class ImageFeatureCalculator {
 
             double entropy = getShannonEntropyOfImage(fImage);
 
-            //String printit = originalImage.getName() + "," + brightness + "," + sharpness + "," + contrast + ","
-            //        + colourfulness + "," + entropy + "," + rgbContrast + "," + sharpnessVartiation + ","
-            //        + saturation + "," + saturationVariation + "," + naturalness;
+
             String printit = originalImage.getName() + "," + brightness + "," + sharpness + "," + colourfulness + "," + rgbContrast + "," + entropy;
-            // System.out.println(printit);
-            // System.out.println(i + "\t out of \t" + files.size());
+
 
             writeData(printit + "\n", opath, true);
 

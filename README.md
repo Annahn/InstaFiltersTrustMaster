@@ -2,7 +2,7 @@
 
 ## Master's thesis
 
-# Contents
+### Contents
 
 - The manually scraped dataset
 - Image feature extraction code (Java)
